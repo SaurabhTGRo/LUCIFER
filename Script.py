@@ -11,9 +11,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/OTTxStream>𒆜 Saurabh ࿐</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/OTTxStream>Saurabh</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/OTTXStream ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/OTTXStream</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
@@ -200,7 +200,7 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @OTTXSTreamSupportChat</b>
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 Saurabh ࿐『🇮🇳』
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Suarabh_878
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Saurabh_878
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Saurabh_878'>Saurabh ࿐</a></b>
 """
 
