@@ -1300,9 +1300,9 @@ async def advantage_spell_chok(msg):
             text="ɪɴsᴛʀᴜᴄᴛɪᴏɴs",
             callback_data="splmd"
         ),
-            InlineKeyboardButton(
-            text="ɢᴏᴏɢʟᴇ",
-            url=f"https://google.com/search?q={search}"
+        InlineKeyboardButton(
+    text="GOOGLE",
+    url=f"https://google.com/search?q={search}"
         )
     ]]
     spl = await msg.reply(
@@ -1339,9 +1339,7 @@ async def manual_filters(client, message, text=False):
                                 protect_content=True if settings["file_secure"] else False,
                                 reply_to_message_id=reply_id
                             )
-                            try:
-                                if settings['auto_ffilter']:
-                                    await auto_filter(client, message)
+                                          await auto_filter(client, message)
                             except KeyError:
                                 grpid = await active_connection(str(message.from_user.id))
                                 await save_group_settings(grpid, 'auto_ffilter', True)
